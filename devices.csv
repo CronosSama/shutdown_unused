@@ -1,0 +1,5 @@
+device,device_type,host,username,password,secret
+SW2,cisco_ios,172.16.1.211,mobo,Pa$$w0rd,Pa$$w0rd
+SW3,cisco_ios,172.16.1.210,mobo,Pa$$w0rd,Pa$$w0rd
+
+

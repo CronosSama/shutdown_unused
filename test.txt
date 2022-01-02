@@ -1,0 +1,196 @@
+[+] [INFORM]: CONNECTING TO SW2...
+Ethernet0/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15870    1246076
+             Route cache          0          0          0          0
+                   Total          0          0      15870    1246076
+Ethernet0/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15104    1139719
+             Route cache          0          0          0          0
+                   Total          0          0      15104    1139719
+Ethernet0/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15103    1139233
+             Route cache          0          0          0          0
+                   Total          0          0      15103    1139233
+Ethernet0/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor      11834    2677961     109700    8307813
+             Route cache          0          0          0          0
+                   Total      11834    2677961     109700    8307813
+Ethernet1/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0        608     238093
+             Route cache          0          0          0          0
+                   Total          0          0        608     238093
+Ethernet1/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0       3141     475554
+             Route cache          0          0          0          0
+                   Total          0          0       3141     475554
+Ethernet1/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      13207     992588
+             Route cache          0          0          0          0
+                   Total          0          0      13207     992588
+Ethernet1/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15104    1139719
+             Route cache          0          0          0          0
+                   Total          0          0      15104    1139719
+Ethernet2/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15103    1139242
+             Route cache          0          0          0          0
+                   Total          0          0      15103    1139242
+Ethernet2/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15102    1138756
+             Route cache          0          0          0          0
+                   Total          0          0      15102    1138756
+Ethernet2/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15106    1140700
+             Route cache          0          0          0          0
+                   Total          0          0      15106    1140700
+Ethernet2/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15105    1140205
+             Route cache          0          0          0          0
+                   Total          0          0      15105    1140205
+Ethernet3/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15104    1139728
+             Route cache          0          0          0          0
+                   Total          0          0      15104    1139728
+Ethernet3/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       3479     522122       3761     662744
+             Route cache          0          0          0          0
+                   Total       3479     522122       3761     662744
+Ethernet3/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       4728     668717       7244    1062429
+             Route cache          0          0          0          0
+                   Total       4728     668717       7244    1062429
+Ethernet3/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       7043    1364217     108311    8922752
+             Route cache          0          0          0          0
+                   Total       7043    1364217     108311    8922752
+Port-channel2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      16956    1706235
+             Route cache          0          0          0          0
+                   Total          0          0      16956    1706235
+Port-channel1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor      12474    2188261     119275   10637105
+             Route cache          0          0          0          0
+                   Total      12474    2188261     119275   10637105
+Interface Vlan1 is disabled
+
+Vlan1000
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       2056     167644       2100     278207
+             Route cache          0          0          0          0
+                   Total       2056     167644       2100     278207
+[+] [INFORM]: CONNECTING TO SW3...
+Ethernet0/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       8998    1330654      21827    3467033
+             Route cache          0          0          0          0
+                   Total       8998    1330654      21827    3467033
+Ethernet0/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        964     131963      17217    1349024
+             Route cache          0          0          0          0
+                   Total        964     131963      17217    1349024
+Ethernet0/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15110    1140088
+             Route cache          0          0          0          0
+                   Total          0          0      15110    1140088
+Ethernet0/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15110    1140088
+             Route cache          0          0          0          0
+                   Total          0          0      15110    1140088
+Ethernet1/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15111    1140574
+             Route cache          0          0          0          0
+                   Total          0          0      15111    1140574
+Ethernet1/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15109    1139593
+             Route cache          0          0          0          0
+                   Total          0          0      15109    1139593
+Ethernet1/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15109    1139593
+             Route cache          0          0          0          0
+                   Total          0          0      15109    1139593
+Ethernet1/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15110    1140088
+             Route cache          0          0          0          0
+                   Total          0          0      15110    1140088
+Ethernet2/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15875    1245524
+             Route cache          0          0          0          0
+                   Total          0          0      15875    1245524
+Ethernet2/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15110    1140088
+             Route cache          0          0          0          0
+                   Total          0          0      15110    1140088
+Ethernet2/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15111    1140574
+             Route cache          0          0          0          0
+                   Total          0          0      15111    1140574
+Ethernet2/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15112    1141060
+             Route cache          0          0          0          0
+                   Total          0          0      15112    1141060
+Ethernet3/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor          0          0      15111    1140574
+             Route cache          0          0          0          0
+                   Total          0          0      15111    1140574
+Ethernet3/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       3756     660888       3492     524086
+             Route cache          0          0          0          0
+                   Total       3756     660888       3492     524086
+Ethernet3/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       7240    1060637       4734     670248
+             Route cache          0          0          0          0
+                   Total       7240    1060637       4734     670248
+Ethernet3/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor      70212    6336547       7054    1366072
+             Route cache          0          0          0          0
+                   Total      70212    6336547       7054    1366072
+Port-channel1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor     116549   10178815      15225    2547078
+             Route cache          0          0          0          0
+                   Total     116549   10178815      15225    2547078
+Interface Vlan1 is disabled
+
+Vlan10
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       2569     231060         42       3234
+             Route cache         54      13662          0          0
+                   Total       2623     244722         42       3234
+Vlan1000
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor       2081     172352       1709     215335
+             Route cache          0          0          0          0
+                   Total       2081     172352       1709     215335
